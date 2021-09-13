@@ -18,10 +18,8 @@
   },
   "homepage": "https://github.com/hamrask/escpos-printer#readme",
   "dependencies": {
-    "canvas": "^2.8.0",
     "escpos": "^3.0.0-alpha.6",
     "escpos-network": "^3.0.0-alpha.5",
-    "html-pdf": "^3.0.1",
     "receipt": "^1.4.0"
   }
 }
